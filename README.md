@@ -2,7 +2,7 @@
 This project is about `churn prediction`.
 ### Data Source 
 Dataset is given by the professor of `Intro to Data Science` Course.
-### What we do in this project
+### What we did in this project
 We seperated the whole project into several different parts, like 'Preprocessing' 'feature extraction' 'feature selection' 'estimation' and 'postprocessing'. When we focused on this `churn prediction` topic, we abandoned 'feature extraction' and 'postprocessing' in that they were not suitable for this problem.<br> 
 <br> 
 In the 'preprocessing' part, since this pronblem is a binary classificatoin problem, we checked whether the distribution of labels is balanced or not at first. Then the distribution of several features were showed out just for visualization. After that we chose 'LabelEncoder()' to transform the categorical values. For numerical values we used 'mean' to fillna.<br> 
