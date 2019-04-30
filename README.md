@@ -1,2 +1,2 @@
-# Labs
-This folder contains some labs being finished during the Machine Learning course.
+# Optional project for Machine Learning Course
+This project is # about churn prediction
