@@ -13,3 +13,5 @@ In the 'estimation' part, we tryed several models such as 'Logistic Regrssion' '
 <br> 
 It turned out that we could achieve the best perfomance via 'Randomforest Classifier'. Because it handles categorical data as is and naturally captures non-linearity and interactions. And the overfitting can be alleviated by ensembled methods at the same time. <br> 
 <br> 
+### The method to find out the best estimators for XGBoost
+1.'n_estimators' ; 2.'max_depth' and 'min_child_weight' ; 3.'max_depth' and 'min_child_weight' ; 4.'gamma' ; 5.'subsample' and 'colsample_bytree' ; 6.'subsample' and 'colsample_bytree' ; 7.'reg_alpha'
