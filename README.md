@@ -1,4 +1,4 @@
-# Optional project for Machine Learning Course
+# Optional Project for Machine Learning Course
 This project is about `churn prediction`.
 ### Data Source 
 Dataset is given by the professor of `Intro to Data Science` Course.
