@@ -1,5 +1,5 @@
 # Optional Project for Machine Learning Course
-This project is about `churn prediction`.
+This project is about `churn prediction`. Netid of group numbers are hd1047,yl6934,yl6019.
 ### Data Source 
 Dataset is given by the professor of `Intro to Data Science` Course.
 ### What we did in this project
