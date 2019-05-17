@@ -38,5 +38,8 @@ In this project, we use and compare various different methods for sentiment anal
         • Random Forest<br>
         • XGboost<br>
 
-
+### Brief Explanation
+In the 'preprocessing' part, since this problem is a 3-class classification problem, we checked whether the distribution of labels is balanced or not at first. Then the distribution of several features were showed out just for visualization.<br> 
+In the 'estimation' part, we tried several models such as 'Logistic Regression' 'Randomforest Classifier' and 'XGBClassifier'. What's more, 'GridSearchCV' and 'K Fold Cross Validation' were also implemented.<br> 
+It turned out that we could achieve the best performance via 'Randomforest Classifier'. Because it handles categorical data as is and naturally captures non-linearity and interactions. And the overfitting can be alleviated by ensembled methods at the same time.<br> 
 
