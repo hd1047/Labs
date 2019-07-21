@@ -1,5 +1,5 @@
 # Optional Project for Machine Learning Course
-This project is about `sentiment analysis on tweets`. Netid of group numbers are hd1047,yl5934,yl6019.
+This project is about `sentiment analysis on tweets`.
 ### Training Dataset from Kaggle 
 1.	The Kaggle Dataset contains tweets from a political debate in America.<br> 
 2.	Tweets were scraped from Twitter of Nov.2016 and were manually classified into positive, negative, and neutral categories.<br> 
